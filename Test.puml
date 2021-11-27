@@ -1,5 +1,5 @@
 @startuml
-class Dummy1 {
+class Hello1 {
   +myMethods()
 }
 
