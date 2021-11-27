@@ -3,11 +3,11 @@ class Hello1 {
   +myMethods()
 }
 
-class Dummy2 {
+class Hello2 {
   +hiddenMethod()
 }
 
-class Dummy3 <<Serializable>> {
+class Hello3 <<Serializable>> {
 String name
 }
 
